@@ -16,7 +16,7 @@
 -  ✅ **Output:**
     -  Generates clean data files (**`category.csv`**, **`subcategory.csv`**,**`campaign.csv`**, **`contacts.csv`** )and provides database features including an **Entity Relationship Diagram (ERD)** and a normalized schema (**`crowdfunding_erd.png`** and **`crowdfunding_db_schema.sql`**).
     
-    **Note:**    All CSV files are located in the **`Resources`**folder of this repository
+    **Note:**    All CSV files are located in the **`Resources`** folder of this repository
 
 ## 📦 Technical Stack:
    -   **🖥️Programming Language:** Python
